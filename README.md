@@ -77,11 +77,20 @@ You’ll usually find my work under the **DiamondSec** concept.
 
 #### My own tools:
 <div align='center'>
-  <img src='https://img.shields.io/badge/D--Track-Progress_Control-black?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/D--Timeline-Technical_Events-blue?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/D--Sentinel_Lynis-Audit_Visualization-darkgreen?style=for-the-badge' />
-  <img src='https://img.shields.io/badge/Linux_Patching-Operational_Guide-555555?style=for-the-badge' />
+  <a href='https://diamond-sec.vercel.app/01-self-kpi.html' target='_blank'>
+    <img src='https://img.shields.io/badge/D--Track-Progress_Control-black?style=for-the-badge' />
+  </a>
+  <a href='https://diamond-sec.vercel.app/02-timeline.html' target='_blank'>
+    <img src='https://img.shields.io/badge/D--Timeline-Technical_Events-blue?style=for-the-badge' />
+  </a>
+  <a href='https://github.com/diamondsecco/Nginx-Lynis-reader' target='_blank'>
+    <img src='https://img.shields.io/badge/D--Sentinel_Lynis-Audit_Visualization-darkgreen?style=for-the-badge' />
+  </a>
+  <a href='https://diamond-sec.vercel.app/03-patches.html' target='_blank'>
+    <img src='https://img.shields.io/badge/Linux_Patching-Operational_Guide-555555?style=for-the-badge' />
+  </a>
 </div>
+
 
 <hr>
 
