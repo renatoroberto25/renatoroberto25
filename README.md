@@ -7,7 +7,7 @@ Linux Security Engineer focused on **hardening Linux that becomes control, evide
 
 I work with infrastructure and information security, transforming **CIS/NIST baselines** into **auditable Ansible playbooks**, reproducing vulnerabilities in lab environments, applying safe remediation and delivering technical evidence ready for audit and pentest retest.
 
-You’ll usually find my work under the **DiamondSec** concept.
+You’ll usually find my work under the **DiamondSec**.
 
 <hr>
 
@@ -96,6 +96,8 @@ You’ll usually find my work under the **DiamondSec** concept.
 
 #### Want to connect?
 <div align='center'>
+  <a href='https://diamond-sec.vercel.app/'>
   <img src='https://img.shields.io/badge/DiamondSec-Hardening_with_Evidence-000000?style=for-the-badge' />
+  </a>
   <img src='https://img.shields.io/badge/Email-diamondsec.email@gmail.com-blue?style=for-the-badge' />
 </div>
