@@ -45,11 +45,21 @@ You’ll usually find my work under the **DiamondSec**.
 
 #### Security & compliance tooling:
 <div align='center'>
+  <a href='https://github.com/diamondsecco/Nginx-Lynis-reader'>
   <img src='https://img.shields.io/badge/Lynis-181717?style=for-the-badge' />
+  </a> 
+  <a href='https://www.open-scap.org/'>
   <img src='https://img.shields.io/badge/OpenSCAP-00599C?style=for-the-badge' />
+  </a>
+  <a href='https://www.tenable.com/products/attack-surface-management'>
   <img src='https://img.shields.io/badge/Tenable.io-00A1E0?style=for-the-badge' />
+  </a>
+  <a href='https://pt-br.tenable.com/products/nessus/nessus-essentials'>
   <img src='https://img.shields.io/badge/Nessus-00A1E0?style=for-the-badge' />
+  </a>
+  <a href='https://wazuh.com/'>
   <img src='https://img.shields.io/badge/Wazuh-4f4f4f?style=for-the-badge' />
+  </a>
 </div>
 
 <hr>
