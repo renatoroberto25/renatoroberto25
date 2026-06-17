@@ -2,8 +2,8 @@
 Glad to meet you! </h2>
 
 ### whoami
-Hello, I'm Renato Roberto.  
-Linux Security Engineer focused on **hardening Linux that becomes control, evidence and retest** — not blind checklists.
+Hello, I'm Renato Roberto Da Silva Porfirio.  
+Linux Security Engineer focused on **hardening Linux that becomes control, evidence and retest** — not blind checklists, also researcher, patch manager, and vulnerability hunter.
 
 I work with infrastructure and information security, transforming **CIS/NIST baselines** into **auditable Ansible playbooks**, reproducing vulnerabilities in lab environments, applying safe remediation and delivering technical evidence ready for audit and pentest retest.
 
