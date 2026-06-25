@@ -119,6 +119,6 @@ You’ll usually find my work under the <a href='https://diamond-sec.vercel.app/
   <img
     src="./assets/badges/assinatura_ibsec_limpa_124.png"
     alt="IBSEC - Segurança em Linux Essencial"
-    width="96"
+    width="200"
   />
 </div>
