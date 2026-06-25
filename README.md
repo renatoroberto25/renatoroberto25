@@ -111,3 +111,14 @@ You’ll usually find my work under the <a href='https://diamond-sec.vercel.app/
   </a>
   <img src='https://img.shields.io/badge/Email-diamondsec.email@gmail.com-blue?style=for-the-badge' />
 </div>
+
+<hr>
+
+#### Certifications
+<div align="center">
+  <img
+    src="./assets/badges/assinatura_ibsec_limpa_124.png"
+    alt="IBSEC - Segurança em Linux Essencial"
+    width="96"
+  />
+</div>
